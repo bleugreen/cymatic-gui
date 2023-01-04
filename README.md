@@ -1,4 +1,8 @@
+## System Dependencies
 
+- [Shairport Sync](https://github.com/mikebrady/shairport-sync)
+  - Flags: metadata, mqtt interface, mqtt client
+- [Mosquitto](https://github.com/eclipse/mosquitto)
 
 ## Install
 
